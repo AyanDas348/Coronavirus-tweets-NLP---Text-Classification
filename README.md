@@ -7,10 +7,3 @@ Columns:
 2) Tweet At
 3) Original Tweet
 4) Label
-
-Please leave an upvote if you find this relevant. P.S. I am new and it will help immensely. :)
-
-Other Datasets:
-1) Guns dataset: https://www.kaggle.com/datatattle/guns-incident-data
-2) Sales Prediction: https://www.kaggle.com/datatattle/sales-prediction-dt-mart-retail
-3) Retail Sales: https://www.kaggle.com/datatattle/dtmart-retail-sales
